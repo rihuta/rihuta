@@ -22,7 +22,7 @@
 
 ---
 
-## 🌸 Sakura Spirit  
+## 🌸 Sakura Spirit  🌸
 <img src="https://i.imgur.com/sakura.gif" width="300px"/>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hiruta&label=Profile%20Views&color=ff69b4&style=for-the-badge)
